@@ -5,4 +5,5 @@ In this project I try to use various classes like abstract and interface class. 
 ## Features
 The  social media automation offers the following features:
 - follow: user can follow other users.
+- post: user can post text
 
