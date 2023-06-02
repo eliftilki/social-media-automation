@@ -6,6 +6,6 @@ In this project I try to use various classes like abstract and interface class. 
 The  social media automation offers the following features:
 - follow: user can follow other users.
 - post: user can post text.
-- print user informations: user can print own's and other user's informations.
+- print user informations: user can print own and other user's informations.
 - sale: business user can sales.
 
